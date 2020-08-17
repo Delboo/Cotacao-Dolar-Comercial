@@ -1,0 +1,15 @@
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.exe
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.csprojAssemblyReference.cache
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.AssemblyInfoInputs.cache
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.AssemblyInfo.cs
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.deps.json
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.runtimeconfig.json
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.runtimeconfig.dev.json
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.dll
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\cotacaodolar.pdb
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.csproj.CoreCompileInputs.cache
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.csproj.CopyComplete
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.dll
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.pdb
+C:\Curso C#\course01\cotacaodolar\cotacaodolar\obj\Debug\netcoreapp3.1\cotacaodolar.genruntimeconfig.cache

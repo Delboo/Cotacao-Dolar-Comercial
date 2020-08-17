@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ypHqK58I/5sPyBaZJzagq9YeHe9Wp8KVddMdoRLqVvrN3StF9/Avi+OavPnHxoBN1qZ1xpNsTvZrdRXP8bkqg==",
+  "success": true,
+  "projectFilePath": "C:\\Curso C#\\course01\\cotacaodolar\\cotacaodolar\\cotacaodolar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delbo\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
